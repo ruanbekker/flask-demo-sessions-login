@@ -21,7 +21,11 @@ Incorrect Password:
 
 ![image](https://user-images.githubusercontent.com/567298/50206668-c81dda00-0374-11e9-9632-1f70752dfac2.png)
 
+Logged In:
+
 ![image](https://user-images.githubusercontent.com/567298/50206643-b0465600-0374-11e9-8b70-bb11a3fc2697.png)
+
+Logout:
 
 ![image](https://user-images.githubusercontent.com/567298/50206653-b89e9100-0374-11e9-9e89-17a7065599bb.png)
 
